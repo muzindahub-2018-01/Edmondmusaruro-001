@@ -1,0 +1,22 @@
+body {
+  font-family: "arial";
+}
+
+h1{
+  text-transform: uppercase;
+  color: black;
+  padding: 10px;
+  background-color: #e2e2e2;
+}
+.Section-title {
+  background-color: #e2e2e2;
+  padding: 5px;
+  text-transform: capitalize;
+  text-align: center;
+  border: solid 3px;
+  border-radius:10px;
+}
+.main-image{
+  border: solid 4px black;
+  border-radius: 50%;
+}
